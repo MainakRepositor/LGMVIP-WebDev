@@ -9,12 +9,12 @@ Badges   : LGMVIP
 
 
 ## Project 1
-Name       : SpaceLiner
-Type       : Frontend 
-Techs      : HTML5, CSS3, JavaScript(ES6), Bootstrap.
-Start Date : 01.07.2021
-End Date   : 06.07.2021
-Status     : Completed
+<p>Name       : SpaceLiner</p>
+<p>Type       : Frontend </p>
+<p>Techs      : HTML5, CSS3, JavaScript(ES6), Bootstrap.</p>
+<p>Start Date : 01.07.2021</p>
+<p>End Date   : 06.07.2021</p>
+<p>Status     : Completed</p>
 
 ===============================================================
 
