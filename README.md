@@ -26,7 +26,7 @@ Group of projects completed by me as a part of Intern at LGM
 <p>Techs      : HTML5,CSS3, JavaScript(ES6), Bootstrap, PHP, MySQL, MakeFiles</p>
 <p>Start Date : 07.07.2021</p>
 <p>End Date   : 20.07.2021</p>
-<p>Status     : Completed</p>
+<p>Status     : In Progress</p>
 
 
 ===============================================================
@@ -37,7 +37,7 @@ Group of projects completed by me as a part of Intern at LGM
 <p>Techs      : ReactJS, NodeJS, HTML5, CSS, Tailwind CSS</p>
 <p>Start Date : 21.07.2021</p>
 <p>End Date   : 22.07.2021</p>
-<p>Status     : Completed</p>
+<p>Status     : In Progress</p>
 
 ---------------------------------------------------------------
 
