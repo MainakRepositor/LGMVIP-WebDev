@@ -11,7 +11,7 @@ Group of projects completed by me as a part of Intern at LGM
 
 
 ## Project 1
-<p>Name       : SpaceLiner</p>
+<p>Name       : Paradise Hotels and Resorts</p>
 <p>Type       : Frontend </p>
 <p>Techs      : HTML5, CSS3, JavaScript(ES6), Bootstrap.</p>
 <p>Start Date : 01.07.2021</p>
