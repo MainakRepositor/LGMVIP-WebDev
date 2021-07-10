@@ -19,7 +19,9 @@ Group of projects completed by me as a part of Intern at LGM
 <p>Status     : Completed</p>
 <p>Demo       :  </p>
 
-https://github.com/MainakRepositor/LGMVIP-WebDev/issues/3#issue-941319985
+https://user-images.githubusercontent.com/64016811/125175808-40c33b00-e1ec-11eb-8b77-2eedb892ec45.mp4
+
+
 
 
 
