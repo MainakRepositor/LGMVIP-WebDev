@@ -17,9 +17,9 @@ Group of projects completed by me as a part of Intern at LGM
 <p>Start Date : 01.07.2021</p>
 <p>End Date   : 06.07.2021</p>
 <p>Status     : Completed</p>
-<p>Screenshots:  </p>
+<p>Demo       :  </p>
 
-![a1](https://user-images.githubusercontent.com/64016811/124651997-3d147900-deb9-11eb-875a-52a3ce5899d8.jpg)
+https://github.com/MainakRepositor/LGMVIP-WebDev/issues/3#issue-941319985
 
 
 
