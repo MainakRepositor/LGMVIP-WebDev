@@ -1,0 +1,16 @@
+.app{
+  margin-left: 30%;
+  margin-top: 5%;
+}
+
+.copy{
+  margin-bottom: 0;
+  color:rgb(30, 9, 150);
+  background-color: rgb(149, 196, 236);
+  margin-left:250px;
+  margin-right: 250px;
+  border-radius:20px ;
+  font-size: 20px;
+}
+
+
