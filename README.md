@@ -26,9 +26,9 @@ https://user-images.githubusercontent.com/64016811/125175808-40c33b00-e1ec-11eb-
 ===============================================================
 
 ## Project 2
-<p>Name       : Gitbook Pro</p>
+<p>Name       : Ledger</p>
 <p>Type       : React based Frontend with API integration</p>
-<p>Techs      : ReactJS, NodeJS, HTML5, CSS, Tailwind CSS</p>
+<p>Techs      : ReactJS, NodeJS, Materilize CSS</p>
 <p>Start Date : 06.07.2021</p>
 <p>End Date   : 11.07.2021</p>
 <p>Status     : Completed</p>
