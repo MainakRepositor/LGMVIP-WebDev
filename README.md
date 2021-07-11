@@ -23,27 +23,26 @@ https://user-images.githubusercontent.com/64016811/125175808-40c33b00-e1ec-11eb-
 
 
 
-
-
 ===============================================================
 
 ## Project 2
-<p>Name       : Student Management System</p>
-<p>Type       : Full-stack (WAMP)</p>
-<p>Techs      : HTML5,CSS3, JavaScript(ES6), Bootstrap, PHP, MySQL, MakeFiles</p>
-<p>Start Date : 07.07.2021</p>
-<p>End Date   : 20.07.2021</p>
-<p>Status     : In Progress</p>
+<p>Name       : Gitbook Pro</p>
+<p>Type       : React based Frontend with API integration</p>
+<p>Techs      : ReactJS, NodeJS, HTML5, CSS, Tailwind CSS</p>
+<p>Start Date : 06.07.2021</p>
+<p>End Date   : 11.07.2021</p>
+<p>Status     : Completed</p>
+
 
 
 ===============================================================
 
 ## Project 3
-<p>Name       : Gitbook Pro</p>
-<p>Type       : React based Frontend with API integration</p>
-<p>Techs      : ReactJS, NodeJS, HTML5, CSS, Tailwind CSS</p>
-<p>Start Date : 21.07.2021</p>
-<p>End Date   : 22.07.2021</p>
+<p>Name       : Student Management System</p>
+<p>Type       : Full-stack (WAMP)</p>
+<p>Techs      : HTML5,CSS3, JavaScript(ES6), Bootstrap, PHP, MySQL, MakeFiles</p>
+<p>Start Date : 11.07.2021</p>
+<p>End Date   : TDB</p>
 <p>Status     : In Progress</p>
 
 ---------------------------------------------------------------
