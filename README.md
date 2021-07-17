@@ -44,8 +44,13 @@ https://user-images.githubusercontent.com/64016811/125196986-8712ab80-e279-11eb-
 <p>Type       : Full-stack (WAMP)</p>
 <p>Techs      : HTML5,CSS3, JavaScript(ES6), Bootstrap, PHP, MySQL, MakeFiles</p>
 <p>Start Date : 11.07.2021</p>
-<p>End Date   : TDB</p>
-<p>Status     : In Progress</p>
+<p>End Date   : 17.07.2021</p>
+<p>Status     : Completed</p>
+<p>Demo       : </p>
+
+https://user-images.githubusercontent.com/64016811/126026191-386d158e-3df4-4dde-935b-ecf34bc7d978.mp4
+
+
 
 ---------------------------------------------------------------
 
